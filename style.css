@@ -39,6 +39,9 @@
     margin-right: 10px;
 }
 
+.bar {
+    flex: 1;
+}
 .main {
     background: wheat;
     flex: 1;
